@@ -1,0 +1,20 @@
+{
+  "name": "genpark-bounding-box-iou-coordinate-normalizer-skill",
+  "version": "1.0.0",
+  "description": "2D bounding box normalizer, IoU calculator, and Non-Maximum Suppression (NMS) engine for vision agents",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "bounding-box",
+    "iou-calculator",
+    "nms-filter",
+    "coordinate-normalizer",
+    "computer-use",
+    "python-standard-library",
+    "agent-skills",
+    "vision-agent",
+    "object-detection",
+    "developer-tools"
+  ]
+}

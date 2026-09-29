@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-bounding-box-iou-coordinate-normalizer-skill"
+version = "1.0.0"
+description = "2D bounding box normalizer, IoU calculator, and Non-Maximum Suppression (NMS) engine for vision agents"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
